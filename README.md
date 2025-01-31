@@ -1,2 +1,3 @@
-# computation-paper-00
-The zeroth elemental paper for the F18 work
+## Computational paradigms using an array processor
+
+Computation is a fundamental aspect of modern technology. The F18 array processor is a new chip that has been developed to perform computations in a novel way. This paper describes a series of numerical experiments that were conducted to evaluate the performance of the F18 array processor. The results of these experiments show that the F18 array processor is capable of performing computations at a much higher speed than traditional processors. This paper also describes the mathematical proposition that underlies the F18 array processor, and provides circuital demonstrative examples to illustrate the capabilities of the chip. How does the chip perform aggregated arithemetic, vector operations, and quaternion rotations will be discussed.
